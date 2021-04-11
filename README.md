@@ -1,4 +1,4 @@
-# Weather Site
+# Weather Website
 
 The App depends on two websites that provide us free forecast API.
 
