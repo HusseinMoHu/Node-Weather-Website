@@ -8,8 +8,8 @@ Weather App Created by [Hussein Mohamed](https://twitter.com/HusseinMoHu)
 To get the Node server running locally:
 
 - Clone this repo
-- **npm install** to install all required dependencies
-- **npm run dev** to start the local server
+- ``npm install`` to install all required dependencies
+- ``npm run dev`` to start the local server
 
 ## Brief
 The App link on heroku [Weather](https://hussein-weather-app.herokuapp.com/ "Weather App")
